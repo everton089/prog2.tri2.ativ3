@@ -34,6 +34,7 @@ O repositório deve possuir o nome:
 Escreva trechos de códigos que justiquem a necessidade da existencia dos temas abaixo em a objetos, se necessário compare com programçaõ funcional para justificativa, adicione ao topo de seus arquivos comentários que justifiquem a abordagem tomada na solução (para cada tópico faça duas soluções diferentes):
 
 1. Classes e objetos
+   [exemplo 1](https://www.typescriptlang.org/pt/play/?#code/PTCKFcEMDsBMHsAEsCmAzAltJ4C2lEBjAG0gGcyVEVwiAnDHfasgBxUIytUV3mJ4BHcFQBukDIkp1E4YgBcMxDAC9ICRK0h0CBQg0gBzgMdIe2UfDKJ4AIwBWKeVYA0icmQy43aSJ2XyMBoEZFCIdDQKSqpGpm7QplIocEisEZxkSChk+iiiKHQAUCAWkLjJ8lRW7vIMtuDO1lTlzgjWGnaOzm6Q7NDkNXXgGDJ4iOLE8HQAdIWFJB6IAArZmZAA3oWI24jY5QBcZLVYAOZbO4Tw0Ed04ITOdAAUeyiHx9AnAJSbO7+I8gALDBkaYvRAAXl28HK522AF9YYhfKQnmgdJQ3gwPt9Eb8IvJwHRoEj0ShEQiEcQnIgMIU0FNHhhwQBGADcNIAPMyAAzc9kYADUApxv0u13kmlW8AIkOgKAA7sspZBHgAifCAmhkVWfRC4i5XTJU6aTE6PAAGABJ1uwKNLQdCUHDkMCMYhrba1tNkdo1YRIIFWFhbOQdXDzZ9CgigA)
 0. Atributos e métodos
 0. Construtores (constructor)
 0. Instanciação de objetos
